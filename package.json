@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "A multi-page static portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'No server configured for static site'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "portfolio",
+    "static-site",
+    "devops"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "htmlhint": "^0.16.1",
+    "stylelint": "^15.10.0"
+  }
+}
