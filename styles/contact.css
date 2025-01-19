@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #40b736;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.contact {
+    padding: 50px;
+    text-align: center;
+}
+
+.contact-info {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin
