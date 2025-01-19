@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "color-no-invalid-hex": true,
+    "declaration-colon-space-after": "always",
+    "declaration-colon-space-before": "never",
+    "block-no-empty": true,
+    "unit-no-unknown": true,
+    "property-no-unknown": true
+  }
+}
