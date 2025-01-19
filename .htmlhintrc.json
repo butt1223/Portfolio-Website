@@ -1,0 +1,8 @@
+{
+  "attr-bans": ["style"],
+  "tagname-lowercase": true,
+  "doctype-first": true,
+  "img-alt-require": true,
+  "head-script-disabled": true,
+  "title-require": true
+}
